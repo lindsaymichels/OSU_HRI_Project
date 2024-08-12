@@ -55,13 +55,13 @@ Usage:
 
 3. Running Core Functionalities:
    - Object Detection:
-     python src/object_detection.py
+     python src/object_and_depth_node.py
 
    - Clustering Analysis:
-     python src/clustering.py
+     python src/cluster.py
 
    - Robot Movements:
-     python src/robot_movement.py
+     python src/drive_to_xy_node.py
 
 Configuration:
 --------------
@@ -86,8 +86,8 @@ This project is licensed under the MIT License. See LICENSE for details.
 Contact:
 --------
 For questions or feedback, please contact:
-- Project Lead: [Your Name](mailto:your.email@example.com)
-- Repository: https://github.com/yourusername/OSU_HRI_Project
+- Project Lead: Lindsay Michels (lindsay.a.michels@gmail.com)
+- Repository: https://github.com/lindsaymichels/OSU_HRI_Project
 
 Thank you for your interest in the OSU_HRI_Project! We look forward to your contributions and feedback.
 """
