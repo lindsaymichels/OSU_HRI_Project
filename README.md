@@ -79,9 +79,6 @@ Contributing:
 -------------
 Contributions are welcome! Please see CONTRIBUTING.md for guidelines on how to contribute to the project.
 
-License:
---------
-This project is licensed under the MIT License. See LICENSE for details.
 
 Contact:
 --------
